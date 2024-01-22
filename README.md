@@ -4,6 +4,7 @@ The security aspect is managed through End-to-End encryption, while the decentra
 
 This project is developed using the TDD methodology. 
 
+# Roadmap
 
 - [ ] End of conception
 - [ ] (Optionnal) Schema of the interactions the different components will have
