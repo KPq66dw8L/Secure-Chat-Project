@@ -1,9 +1,9 @@
 # Concept
 A WIP secured - decentralized - messaging application or *chat*. 
-The *secured* aspect is handled by:
-- End To End encryption
-- Either P2P or a Blockchain based system
+The security aspect is managed through End-to-End encryption, while the decentralization is currently achieved via a Peer-to-Peer (P2P) network, with potential future implementation of a Blockchain-based system.
+
 This project is developed using the TDD methodology. 
+
 
 - [ ] End of conception
 - [ ] (Optionnal) Schema of the interactions the different components will have
